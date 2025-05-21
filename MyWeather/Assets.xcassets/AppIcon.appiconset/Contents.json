@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "MW_Icon.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +13,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "ChatGPT Image 23 апр. 2025 г., 22_21_17.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
